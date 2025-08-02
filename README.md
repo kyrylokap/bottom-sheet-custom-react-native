@@ -14,6 +14,6 @@ Example of using **@gorhom/bottom-sheet** with default Expo Router routes in a R
 ## Installation
 
 ```bash
-npm install
+git clone https://github.com/kyrylokap/bottom-sheet-custom-react-native.git
 # or
-yarn install
+
